@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/Date.cpp.o CMakeFiles/untitled.dir/Time.cpp.o CMakeFiles/untitled.dir/Data.cpp.o CMakeFiles/untitled.dir/Table.cpp.o CMakeFiles/untitled.dir/Parser.cpp.o  -o untitled 

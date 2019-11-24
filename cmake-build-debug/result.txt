@@ -1,0 +1,31 @@
+| geoId : 1 | level : 200 | geoPos : "a" | meaDate : 5.4.2018 | sunrise : 6.30 | sundown : 18.25 | weather : show |
+| geoId : 2 | level : -100 | geoPos : "b" | meaDate : 6.4.2018 | sunrise : 6.30 | sundown : 18.26 | weather : rain |
+| geoId : 3 | level : 200 | geoPos : "c" | meaDate : 7.4.2018 | sunrise : 6.30 | sundown : 18.27 | weather : rain |
+| geoId : 4 | level : 0 | geoPos : "d" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.28 | weather : show |
+| geoId : 5 | level : 0 | geoPos : "e" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.29 | weather : show |
+| geoId : 5 | level : 0 | geoPos : "g" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.29 | weather : show |
+| geoId : 6 | level : 0 | geoPos : "f" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.30 | weather : show |
+| geoId : 7 | level : 47 | geoPos : "m" | meaDate : 10.1.2011 | sunrise : 6.30 | sundown : 18.31 | weather : cloudy |
+| geoId : 8 | level : 47 | geoPos : "g" | meaDate : 10.1.2011 | sunrise : 6.30 | sundown : 18.31 | weather : cloudy |
+---------------------------------
+| geoId : 5 | level : 0 | geoPos : "e" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.29 | weather : show |
+---------------------------------
+| geoId : 1 | level : 200 | geoPos : "a" | meaDate : 5.4.2018 | sunrise : 6.30 | sundown : 18.25 | weather : show |
+| geoId : 3 | level : 200 | geoPos : "c" | meaDate : 7.4.2018 | sunrise : 6.30 | sundown : 18.27 | weather : rain |
+| geoId : 7 | level : 47 | geoPos : "m" | meaDate : 10.1.2011 | sunrise : 6.30 | sundown : 18.31 | weather : cloudy |
+| geoId : 8 | level : 47 | geoPos : "g" | meaDate : 10.1.2011 | sunrise : 6.30 | sundown : 18.31 | weather : cloudy |
+| geoId : 4 | level : 0 | geoPos : "d" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.28 | weather : show |
+| geoId : 5 | level : 0 | geoPos : "e" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.29 | weather : show |
+| geoId : 5 | level : 0 | geoPos : "g" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.29 | weather : show |
+| geoId : 6 | level : 0 | geoPos : "f" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.30 | weather : show |
+| geoId : 2 | level : -100 | geoPos : "b" | meaDate : 6.4.2018 | sunrise : 6.30 | sundown : 18.26 | weather : rain |
+---------------------------------
+| geoId : 1 | level : 200 | geoPos : "a" | meaDate : 5.4.2018 | sunrise : 6.30 | sundown : 18.25 | weather : show |
+| geoId : 3 | level : 200 | geoPos : "c" | meaDate : 7.4.2018 | sunrise : 6.30 | sundown : 18.27 | weather : rain |
+| geoId : 7 | level : 47 | geoPos : "m" | meaDate : 10.1.2011 | sunrise : 6.30 | sundown : 18.31 | weather : cloudy |
+| geoId : 8 | level : 47 | geoPos : "g" | meaDate : 10.1.2011 | sunrise : 6.30 | sundown : 18.31 | weather : cloudy |
+| geoId : 4 | level : 0 | geoPos : "d" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.28 | weather : show |
+| geoId : 5 | level : 0 | geoPos : "g" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.29 | weather : show |
+| geoId : 6 | level : 0 | geoPos : "f" | meaDate : 8.4.2018 | sunrise : 6.30 | sundown : 18.30 | weather : show |
+| geoId : 2 | level : -100 | geoPos : "b" | meaDate : 6.4.2018 | sunrise : 6.30 | sundown : 18.26 | weather : rain |
+---------------------------------

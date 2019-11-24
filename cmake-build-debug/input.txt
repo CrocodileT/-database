@@ -1,0 +1,15 @@
+insert geoId=1  geoPos="a" meaDate=5.4.2018 level=200 sunrise=6:30 weather=snow sundown=18:25
+insert geoId=2  geoPos="b" meaDate=6.4.2018 level=-100 sunrise=6:30 weather=rain sundown=18:26
+insert geoId=3  geoPos="c" meaDate=7.4.2018 level=200 sunrise=6:30 weather=rain sundown=18:27
+insert geoId=4  geoPos="d" meaDate=8.4.2018 level=0 sunrise=6:30 weather=snow sundown=18:28
+insert geoId=5  geoPos="e" meaDate=8.4.2018 level=0 sunrise=6:30 weather=snow sundown=18:29
+insert geoId=5  geoPos="g" meaDate=8.4.2018 level=0 sunrise=6:30 weather=snow sundown=18:29
+insert geoId=6  geoPos="f" meaDate=8.4.2018 level=0 sunrise=6:30 weather=snow sundown=18:30
+insert geoId=7  geoPos="m" meaDate=10.1.2011 level=47 sunrise=6:30 weather=cloudy sundown=18:31
+insert geoId=8  geoPos="g" meaDate=10.1.2011 level=47 sunrise=6:30 weather=cloudy sundown=18:31
+print
+select geoId=5 geoPos="e"
+sort level>40 geoId<5 
+print
+delete geoId=5 geoPos="e"
+print
