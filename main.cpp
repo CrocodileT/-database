@@ -1,6 +1,4 @@
 #include <iostream>
-#include <list>
-#include <queue>
 #include "Parser.h"
 std::list<Data::CompareField> Data::fieldsPriority;
 bool Data::paramSort = false;
