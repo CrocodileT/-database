@@ -3,7 +3,6 @@
 //
 
 #include "Table.h"
-#include <utility>
 
 std::list<Data>& Table::getTable(){
     return (this->table);

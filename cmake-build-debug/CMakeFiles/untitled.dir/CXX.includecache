@@ -26,11 +26,7 @@ Time.h
 string
 -
 
-/home/abc/CLionProjects/untitled/Parser.h
-fstream
--
-queue
--
+/home/abc/CLionProjects/untitled/Table.cpp
 Table.h
 /home/abc/CLionProjects/untitled/Table.h
 
@@ -43,14 +39,4 @@ Data.h
 /home/abc/CLionProjects/untitled/Time.h
 string
 -
-
-/home/abc/CLionProjects/untitled/main.cpp
-iostream
--
-list
--
-queue
--
-Parser.h
-/home/abc/CLionProjects/untitled/Parser.h
 

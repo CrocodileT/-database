@@ -14,19 +14,13 @@ Data::Data (std::string geoPos, Date meaDate, Time sunrise, Time sundown, Data::
     this->weather = weather;
 }
 
-Data::Weather Data::initWeather(const std::string & str){
-    try {
-        if (str == "fair") return fair;
-        if (str == "rain") return rain;
-        if (str == "cloudy") return cloudy;
-        if (str == "snow") return snow;
-        throw str;
-    }
-    catch (const std::string& bad){
-        std::cout << "bad weather : " << bad << std::endl;
-        return (fair);
-    }
+Data::Weather Data::initWeather(const std::string & str) {
+    if (str == "fair") return fair;
+    if (str == "rain") return rain;
+    if (str == "cloudy") return cloudy;
+    else return snow;
 }
+
 
 void Data::initFieldsPriority(std::list<CompareField> fields){
     fieldsPriority = std::move(fields);
